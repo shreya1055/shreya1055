@@ -6,7 +6,10 @@
 📍 Toronto, ON, Canada  
 
 💻 **Currently Working On:**  
-- Full Stack Development projects  
+- Full Stack Development projects
+
+⌨️ **Languages:**  
+![Static Badge](https://img.shields.io/badge/Python-blue) ![Static Badge](https://img.shields.io/badge/Java-orange) 
 
 📊 **GitHub Stats:**  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya1055)](https://github.com/shreya1055/github-readme-stats)
