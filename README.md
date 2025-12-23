@@ -9,5 +9,5 @@
 - Full Stack Development projects  
 
 📊 **GitHub Stats:**  
-[![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya1055)](https://github.com/anuraghazra/github-readme-stats)
+[![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya1055)](https://github.com/shreya1055/github-readme-stats)
 
