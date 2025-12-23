@@ -2,7 +2,7 @@
 
 ## 👋 Sharing My Journey Toward Becoming a Software Engineer
 
-🎓 **University of Toronto Student**  
+🎓 **University of Toronto Student, Bachelor of Computer Science**  
 📍 Toronto, ON, Canada  
 
 💻 **Currently Working On:**  
