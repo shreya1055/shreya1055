@@ -6,6 +6,7 @@
 📍 Toronto, ON, Canada  
 
 💻 **Currently Working On:**  
+- Software Engineer Intern at Keum AI
 - SmartSyllabus Startup
   - LinkedIn: https://www.linkedin.com/company/smartsyllabusedu/
   - Website:  https://smartsyllabus.ca/
